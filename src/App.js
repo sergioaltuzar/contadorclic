@@ -10,6 +10,10 @@ function App() {
         src={sergioAltuzarLogo}
         alt='logo sergio'/>
       </div>
+      <div className='contenedor-principal'>
+        
+
+      </div>
     </div>
   );
 }
