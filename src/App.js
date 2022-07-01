@@ -9,11 +9,11 @@ function App() {
 
   const manejarClic = () => {
     setNumClics(numClics + 1);
-  }
+  };
 
   const reiniciarContador = () => {
     setNumClics(0);
-  }
+  };
   return (
     <div className="App">
       <div className='logo-contenedor' >
