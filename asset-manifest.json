@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/contadorclic/static/css/main.d1c70723.css",
+    "main.js": "/contadorclic/static/js/main.00e8c748.js",
+    "static/media/logo-sergio-altuzar.png": "/contadorclic/static/media/logo-sergio-altuzar.93d5b1c3cffe07f024ae.png",
+    "index.html": "/contadorclic/index.html",
+    "main.d1c70723.css.map": "/contadorclic/static/css/main.d1c70723.css.map",
+    "main.00e8c748.js.map": "/contadorclic/static/js/main.00e8c748.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1c70723.css",
+    "static/js/main.00e8c748.js"
+  ]
+}
